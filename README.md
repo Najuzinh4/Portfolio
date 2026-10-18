@@ -22,7 +22,7 @@ Site de página única (single-page), 100% front-end, sem dependências de build
 
 ```
 index.html                 # o portfólio (arquivo único, pronto pra hospedar)
-Ana-Julia-Gaspar-CV.pdf    # currículo (mantenha ao lado do index.html)
+Ana_Julia_Gaspar_CV.pdf    # currículo (mantenha ao lado do index.html)
 ```
 
 ## 🚀 Como publicar
